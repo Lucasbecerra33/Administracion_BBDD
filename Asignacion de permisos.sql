@@ -18,7 +18,7 @@ GO
 -- Puede: Consultar información
 
 ALTER ROLE db_datareader
-ADD MEMBER usuario_consultaS;
+ADD MEMBER usuario_consultas;
 GO
 
 -- PERMISOS USUARIO ADMIN
